@@ -38,3 +38,6 @@ unzip data2/T91.zip -d data2/
 
 gdown https://drive.google.com/uc?id=17Rq-4gm1_rJX3KB2jolcqMGWiSSmQIWz -O data2/historical.zip
 unzip data2/historical.zip -d data2/
+
+gdown https://drive.google.com/uc?id=1h3H0Vm4yvMVVQgpJk3s0a304FTpOZGKg -0 data2/Flickr2k.zip
+unzip data2/Flickr2k.zip -d data2/ 
