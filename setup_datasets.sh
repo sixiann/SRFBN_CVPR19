@@ -7,8 +7,8 @@ unzip data2/image_data2set_4k_trainval.zip -d data2/
 
 mkdir -p data2/div2k
 
-wget http://data2.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_HR.zip -P data2/
-wget http://data2.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip -P data2/
+wget http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_train_HR.zip -P data2/
+wget http://data.vision.ee.ethz.ch/cvl/DIV2K/DIV2K_valid_HR.zip -P data2/
 unzip data2/DIV2K_train_HR.zip -d data2/div2k
 unzip data2/DIV2K_valid_HR.zip -d data2/div2k
 
