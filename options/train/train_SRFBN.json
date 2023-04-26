@@ -15,7 +15,7 @@
             "mode": "LRHR",
             "dataroot_HR": "data2/div2k/DIV2K_train_HR/DIV2K_train_HR_aug/x4",
             "dataroot_LR": "data2/div2k/DIV2k_train_HR/DIV2K_train_LR_aug/x4",
-            "data_type": "npy",
+            "data_type": "img",
             "n_workers": 4,
             "batch_size": 16,
             "LR_size": 40,
